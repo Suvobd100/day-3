@@ -1,0 +1,122 @@
+
+
+#lazy-fox-div {
+
+    text-align: center;
+    color: blue;
+    font-size: larger;
+
+}
+
+#lazy-fox-heading {
+
+    text-align: center;
+
+    color: orange;
+
+}
+
+#ami-hobo {
+    text-align: justify;
+    text-align-last: center;
+}
+
+#kana-boge {
+    text-align: justify;
+    text-align-last: center;
+}
+
+#kana-boge-1-div {
+    background: saddlebrown;
+    color: white;
+
+
+}
+
+#kana-boge-2-div {
+    background: greenyellow;
+    color: red;
+}
+
+/* Second web page style start */
+#head-span {
+    text-decoration: underline;
+    color: darkred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+
+}
+
+.head-center {
+    background-color: red;
+    font-size:50px; 
+     text-align:center;
+    color: white;
+    
+}
+.head-center-img {
+    background-color: blueviolet;
+    font-size:50px; 
+     text-align:center;
+    color: white;
+    
+}
+
+.pra-1{
+    background-color: aqua;
+    font-size:20px; 
+    display:inline-block; 
+    text-align:center;
+    
+    
+}
+.pra-2{
+    background-color: lightcoral;
+    font-size:20px; 
+    margin-top: 10px;
+    display:inline-block; 
+    text-align:left;
+    
+    
+}
+.div{
+    background-color: lightgray;
+    margin: 10px 10px 20px;
+    font-size:20px; 
+    display:inline-block; 
+    text-align:right;
+    
+    
+}
+
+
+.h-sandwich{
+    text-align:center;
+}
+
+.Sandwich-div{
+    width:50%; 
+    margin: auto;
+}
+.ul-sty{
+    color: red;
+}
+
+.li-sub{
+    font-size: 20;
+    font-weight: 600;
+    color: blue;
+}
+
+.img-1{
+    height: 50%;
+    width: 50%;
+    border: 10px;
+}
+.img-2{
+    height: 20%;
+    width: 50%;
+    float: right;
+    border: 10px;
+   }
